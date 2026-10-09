@@ -1,7 +1,7 @@
 ## Here is the link list to all of our Pharo projects
 
 ### Glauriel
-| Module | Project | Link |
+| Lecture | Project | Link |
 | --- | --- | --- |
 | ... | ... | ... |
 
@@ -9,6 +9,10 @@
 
 ### Tien
 
-| Module | Project | Link |
-| --- | --- | --- |
-| 1 | MyCounter | https://github.com/nttt1400/MyCounter |
+| Project | Link |
+| --- | --- |
+| MyCounter | https://github.com/nttt1400/MyCounter |
+| Dice | https://github.com/nttt1400/Dice |
+| Chess | https://github.com/nttt1400/Chess |
+| EarthTutorial | https://github.com/nttt1400/EarthTutorial |
+|FileSystem-Composite|https://github.com/nttt1400/FileSystem-Composite|
